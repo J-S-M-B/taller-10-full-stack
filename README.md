@@ -5,3 +5,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Punto 1</h2>
+<img src="./public/images/punto1.jpg" alt="php">
+
+<h2>Punto 2</h2>
+<img src="./public/images/punto2.jpg" alt="php">
