@@ -22,3 +22,6 @@
 
 <h3>6 - Conexión</h3>
 <img src="./public/images/punto6.jpg" alt="connection">
+
+<h3>7 - Muestra de datos en pantalla</h3>
+<img src="./public/images/table.jpg" alt="datos">
