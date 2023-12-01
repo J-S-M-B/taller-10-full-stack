@@ -1,8 +1,8 @@
-<h1>Taller 10: Juan Sebastian Mosquera</h1>
+<h1>Taller Back end: Juan Sebastian Mosquera</h1>
 
 <h2>Información</h2>
-<p>Curso: Full Stack Básico - Grupo 1 </p>
-<p>Profesor: Cristian Patiño</p>
+<p>Curso: Full Stack Intermedio </p>
+<p>Profesor: Andrés Pineda </p>
 
 <h2>Punto 1</h2>
 <img src="./public/images/punto1.jpg" alt="php">
